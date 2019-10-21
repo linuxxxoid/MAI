@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{14F7E2F9-D7C4-1C37-2414-FFA627B390BD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnCitizens.cs">
+    <Files>
+      <File FileName="../../Desktop/myCompiler 2019_04 2 kp/:Users:linuxoid:coding:Gta 1 linuxoid edition:Assets:Scripts:MoveObjects.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/SpawnCars.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="54" Column="1" />
+      <File FileName="../../Desktop/myCompiler 2019_04 2 kp/:Users:linuxoid:coding:Gta 1 linuxoid edition:Assets:Scripts:CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveObjects.cs" Line="9" Column="28" />
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="9" Column="103" />
+      <File FileName="Assets/Scripts/CitizensControl.cs" Line="77" Column="14" />
+      <File FileName="Assets/Scripts/SpawnCitizens.cs" Line="22" Column="57" />
+      <File FileName="Assets/Scripts/RouteForCars.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarEngine.cs" Line="24" Column="38" />
+      <File FileName="Assets/Scripts/PlayerBar.cs" Line="33" Column="72" />
+      <File FileName="Assets/Scripts/CitizenHealth.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/Items.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="89" Column="29" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="20" Column="53" />
+      <File FileName="Assets/Scripts/CarHealth.cs" Line="26" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
